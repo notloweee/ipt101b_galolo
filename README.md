@@ -3,5 +3,5 @@ I am Louie Gerson S. Galolo managing my README.md file to be submitted by Sir Lo
 ## Author
 - [@louiegerson_galolo]( https://github.com/notloweee)
 ## Sample Code
-printf('Hello World');
+printf( 'Hello World' );
 
