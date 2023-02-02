@@ -1,5 +1,5 @@
 # Galolo's Project
-I am Louie Gerson S. Galolo managing my README.md file to be submitted by Sir Lord Francis Navarro.
+I am Louie Gerson S. Galolo managing my README.md file to be submitted to Sir Lord Francis Navarro.
 ## Author
 - [@notloweee]( https://github.com/notloweee)
 ## Sample Code
