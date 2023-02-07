@@ -6,5 +6,6 @@ I am Louie Gerson S. Galolo managing my README.md file to be submitted to Sir Lo
 `printf( 'Hello World!' );`
 ## How to Install
 - Step 1: Download the zip file or use git clone
+- Step 2: First New Commit
 
 
