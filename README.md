@@ -8,4 +8,5 @@ I am Louie Gerson S. Galolo managing my README.md file to be submitted to Sir Lo
 - Step 1: Download the zip file or use git clone
 - Step 2: First New Commit
 - Step 4: New Commit After Revert
+- Step 5: Second New Commit After Revert
 
