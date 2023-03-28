@@ -13,7 +13,7 @@
 
     for($i=1; $i<=$j; $i++){
             echo $number ." x ". $i ." = ". $number * $i ."<br><br>";
-        // echo "Yeah";
+        // echo "Louie";
         }
     ?>
     <h4>Created by: Louie Gerson S. Galolo</h4>
